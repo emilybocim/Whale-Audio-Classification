@@ -1,4 +1,4 @@
-![Whale Image](https://www.americanoceans.org/wp-content/uploads/2021/03/right-whale-mom-calf.jpg)
+![Whale Image](https://photos.app.goo.gl/iRQArsCyCRFz5QbX6)
 
 # Whale Audio Classification
 Using hydrophone recordings with a CNN model to determine if whales are present.
